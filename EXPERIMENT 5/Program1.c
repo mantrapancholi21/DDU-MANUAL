@@ -1,3 +1,4 @@
+//AUTHOR : MANTRA PANCHOLI
 //EXPERIMENT 5
 //PROGRAM 1
 //this is program to find SUM and AVERAGE of N elements
